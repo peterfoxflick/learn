@@ -14,7 +14,7 @@ description: A repository of what I learn while programing.
 url: "http://peterfoxflick.com/learn"
 
 # baseurl should be an empty string
-baseurl: ""
+baseurl: "/learn"
 
 # --- Navigation bar options --- #
 
