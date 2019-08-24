@@ -69,7 +69,7 @@ arr.forEach(i => {
 console.log("SUM: " + sum);
 ```
 
-You can take a look at [all the code](https://gist.github.com/peterfoxflick/ab6db2fa436eb5755c748cbb4da8c813.js) on Github.
+You can take a look at [all the code](https://gist.github.com/peterfoxflick/ab6db2fa436eb5755c748cbb4da8c813) on Github.
 
 
 ## The Test
