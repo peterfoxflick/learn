@@ -2,7 +2,6 @@
 layout: post
 title: Fastest JS Loop
 subtitle: Finding the fastest loop in Javascript
-gh-badge: [star, fork, follow]
 tags: [js]
 ---
 
@@ -70,7 +69,7 @@ arr.forEach(i => {
 console.log("SUM: " + sum);
 ```
 
-<script src="https://gist.github.com/peterfoxflick/ab6db2fa436eb5755c748cbb4da8c813.js"></script>
+You can take a look at [all the code](https://gist.github.com/peterfoxflick/ab6db2fa436eb5755c748cbb4da8c813.js) on Github.
 
 
 ## The Test
