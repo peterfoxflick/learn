@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAS Exceed Timeout
+title: GAS Exceeds Timeout
 subtitle: A simple approach for when your google app scripts times outs.
 tags: [google-app-scripts]
 ---
