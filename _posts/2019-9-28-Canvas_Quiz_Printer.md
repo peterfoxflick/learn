@@ -27,7 +27,7 @@ After publishing the extension I reached out to my coworkers to test it out. One
 
 Luckily, from getting the quiz title, and description, I already had easy access to that answers. Knowing the total number of questions meant I could go back and know how many requests were necessary to get all the questions from the quiz.
 
-## Going futher
+## Going further
 
 I would love to go back and add some interactions to the printable quiz. Allow the user to change the font, add more lines to essay questions, things like that. For now I might tuck this project into the back drawer, but if you would like to take a stab at it just [fork it from GitHub](https://github.com/peterfoxflick/CanvasQuizPrinter).
 
