@@ -13,7 +13,7 @@ The game plan was simple.
 1. Learn how to make chrome extensions
 2. Get the quiz id, course id, and school id from the url
 3. Use the above id's to get the questions from a quiz
-4. output each question as HTML
+4. Output each question as HTML
 
 And thats how it worked folks. First I got the program to trigger when the extension icon was clicked. The current URL was analyzed for the id's and passed as parameters to a local HTML document that would run all the API requests.
 
